@@ -14,6 +14,8 @@
 
 ## 📂 Projects
 - Fake News Headline Generator (Python Project)
+  Link - (https://github.com/Anushakurmi/Fake-News-Headline-Generator)
+- History Based Calculator (Python Project)
 
 ## 📫 Connect With Me
 - LinkedIn: (https://www.linkedin.com/in/contactanushakurmi)
