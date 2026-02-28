@@ -17,6 +17,8 @@
   Link - (https://github.com/Anushakurmi/Fake-News-Headline-Generator)
 - History Based Calculator (Python Project)
   Link - (https://github.com/Anushakurmi/history-based-calculator)
+- Advance password guessing game (Python Project)
+  Link - (https://github.com/Anushakurmi/password-guessing-game/blob/main/advance_guessing_game)
 
 ## 📫 Connect With Me
 - LinkedIn: (https://www.linkedin.com/in/contactanushakurmi)
