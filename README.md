@@ -19,6 +19,9 @@
   Link - (https://github.com/Anushakurmi/history-based-calculator)
 - Advance password guessing game (Python Project)
   Link - (https://github.com/Anushakurmi/password-guessing-game/blob/main/advance_guessing_game)
+- Expense Analytics Pipeline (Python Data Analysis Project)
+  Link - (https://github.com/Anushakurmi/Expense-Analytics-Pipeline)
 
 ## 📫 Connect With Me
 - LinkedIn: (https://www.linkedin.com/in/contactanushakurmi)
+
