@@ -21,6 +21,8 @@
   Link - (https://github.com/Anushakurmi/password-guessing-game/blob/main/advance_guessing_game)
 - Expense Analytics Pipeline (Python Data Analysis Project)
   Link - (https://github.com/Anushakurmi/Expense-Analytics-Pipeline)
+- Student Performance Analytics Warehouse (Python, Pandas, DuckDB)
+  Link - (https://github.com/Anushakurmi/Student-Performance-Analytics) 
 
 ## 📫 Connect With Me
 - LinkedIn: (https://www.linkedin.com/in/contactanushakurmi)
